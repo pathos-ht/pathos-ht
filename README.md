@@ -5,8 +5,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on shooting and editing video, hosting website, and using GitHub.
-- 🌱 I’m currently learning ...
+- 🔭 I’m currently working on writing cases, shooting and editing video, and hosting website.
+- 🌱 I’m currently learning to use GitHub.
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with GitHub and AI education
 - 💬 Ask me about ...
