@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## 👋 About Me
+I’m learning GitHub and building cool stuff along the way.
+
+## 🌱 Current Focus
+- Exploring GitHub Discussions
+- Learning Markdown and making my first commits
+
+## 📫 Reach Me
+[LinkedIn](https://linkedin.com/in/YOUR-HANDLE)`
